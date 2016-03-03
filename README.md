@@ -1,4 +1,4 @@
-# Editor Support for Erlang Survey March 2016
+# State of Erlang Editor Support Survey March 2016
 
 ![Erlang editor](https://raw.githubusercontent.com/yuce/erlang-editor-support-survey-2016-03/master/charts/01_Erlang_editor.png)
 
